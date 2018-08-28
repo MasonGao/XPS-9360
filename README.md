@@ -1,6 +1,6 @@
 # XPS-9360-Hackintosh
 
-macOS on Dell XPS 9360 i5-8250U with USB WiFi
+EFI and Tools for macOS on Dell XPS 9360 i5-8250U 
 
 ## Usage
 
@@ -10,8 +10,7 @@ macOS on Dell XPS 9360 i5-8250U with USB WiFi
 
 - Run `/other/HIDPI/run.command` to open HIDPI
 
-- Change your [`Serial Number`, `Custom UUID`]by Clover Configurator(https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/)
-
+- Change your [`Serial Number`, `Custom UUID`](https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/)by Clover Configurator
 ## Credits
 
 ### [the-darkvoid](https://github.com/the-darkvoid/XPS9360-macOS)
