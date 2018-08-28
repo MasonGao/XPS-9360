@@ -4,7 +4,7 @@ macOS on Dell XPS 9360 i5-8250U
 
 ## Usage
 
-- Boot with `DVMT.efi` in `/CLOVER/tools`, use command `setup_var` modify some UEFI Variables[UEFI Variables](https://github.com/the-darkvoid/XPS9360-macOS#uefi-variables).
+- Boot with `DVMT.efi` in `/CLOVER/tools`, use command `setup_var` modify some [UEFI Variables](https://github.com/the-darkvoid/XPS9360-macOS#uefi-variables).
 
 - After installation, use `XPS9360.sh` in folder `Other` to inject AppleHDA with option `--patch-hda`
 
