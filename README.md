@@ -10,7 +10,7 @@ macOS on Dell XPS 9360 i5-8250U with USB WiFi
 
 - Run `/other/HIDPI/run.command` to open HIDPI
 
-- [Change your `Serial Number`, `Custom UUID`by Clover Configurator](https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/)
+- Change your [`Serial Number`, `Custom UUID`]by Clover Configurator(https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/)
 
 ## Credits
 
