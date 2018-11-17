@@ -9,7 +9,7 @@ EFI and Tools for macOS on Dell XPS 9360 i5-8250U
 - After installation, use `XPS9360.sh` with option `--patch-hda` in folder `Other` to inject AppleHDA 
 
 - Run `/other/HIDPI/run.command` to open HIDPI
-  (Use `Kext Utility` to Rebuild the cache if Flowers screen)
+   (Use `Kext Utility` to rebuild the cache if screen collapse)
 
 - Change your [`Serial Number`, `Custom UUID`](https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/)by Clover Configurator
 
