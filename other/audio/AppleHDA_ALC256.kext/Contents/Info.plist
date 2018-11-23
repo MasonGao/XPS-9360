@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>16B2657</string>
+	<string>17A405001</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
 	<string>AppleHDA</string>
 	<key>CFBundleGetInfoString</key>
-	<string>AppleHDA 9281.52, Copyright © 2000-2017 Apple Inc. All rights reserved.</string>
+	<string>AppleHDA 9282.10, Copyright © 2000-2017 Apple Inc. All rights reserved.</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.driver.AppleHDA</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -19,7 +19,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>9281.52</string>
+	<string>9282.10</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -27,21 +27,23 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>9281.52</string>
+	<string>9282.10</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>9P107g</string>
+	<string>10L213p</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>GM</string>
+	<string>10.14</string>
 	<key>DTSDKBuild</key>
-	<string>17G2105</string>
+	<string>18B59</string>
 	<key>DTSDKName</key>
-	<string>macosx10.13internal</string>
+	<string>macosx10.14internal</string>
 	<key>DTXcode</key>
-	<string>0930</string>
+	<string>1000</string>
 	<key>DTXcodeBuild</key>
-	<string>9P107g</string>
+	<string>10L213p</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>HDA Driver</key>
@@ -159,8 +161,10 @@
 			</array>
 		</dict>
 	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.14</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>AppleHDA 9281.52, Copyright © 2000-2017 Apple Inc. All rights reserved.</string>
+	<string>AppleHDA 9282.10, Copyright © 2000-2017 Apple Inc. All rights reserved.</string>
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>com.apple.driver.AppleHDAController</key>
