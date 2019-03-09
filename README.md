@@ -27,7 +27,7 @@ EFI and Tools for macOS on Dell XPS 9360 i5-8250U
 
 - Rebuild cache use `kext utility` or commands:
 
-```
+<pre name="code" class="bash">
 #!/bin/sh
 sudo chmod -Rf 755 /S*/L*/E*
 sudo chown -Rf 0:0 /S*/L*/E*
@@ -38,8 +38,7 @@ sudo rm -Rf /S*/L*/Caches/com.apple.kext.caches/*
 sudo touch -f /S*/L*/E*
 sudo touch -f /L*/E*
 sudo kextcache -Boot -U /
-
-```
+</pre>
 
 ## Credits
 
