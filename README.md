@@ -4,7 +4,7 @@ EFI and Tools for macOS on Dell XPS 9360 i5-8250U
 
 ## Installation
 
--Use [etcher](https://www.balena.io/etcher/) and [dmg]https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/ to install MacOS
+-Use [etcher](https://www.balena.io/etcher/) and [dmg](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) to install MacOS
 
 ## Usage
 
@@ -27,7 +27,8 @@ EFI and Tools for macOS on Dell XPS 9360 i5-8250U
 
 - Rebuild cache use `kext utility` or commands:
 
-```#!/bin/sh
+```
+#!/bin/sh
 sudo chmod -Rf 755 /S*/L*/E*
 sudo chown -Rf 0:0 /S*/L*/E*
 sudo chmod -Rf 755 /L*/E*
