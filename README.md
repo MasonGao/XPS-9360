@@ -1,4 +1,4 @@
-# XPS-9360-i5-8250u
+# XPS-9360
 
 EFI and Tools for macOS on Dell XPS 9360 i5-8250U 
 
